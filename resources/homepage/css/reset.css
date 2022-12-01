@@ -4,11 +4,11 @@
 	font-style: normal;
 	font-weight: 200;
 	src: local('SCDream'),
-			url('/resources/homepage/fonts/SCDreamLight.woff2') format('woff2'), 
-			url('/resources/homepage/fonts/SCDreamLight.woff') format('woff'),
-			url('/resources/homepage/fonts/SCDreamLight.ttf') format('truetype'),
-			url('/resources/homepage/fonts/SCDreamLight.otf') format('opentype'),
-			url('/resources/homepage/fonts/SCDreamLight.eot') format('embedded-opentype');
+			url('../fonts/SCDreamLight.woff2') format('woff2'), 
+			url('../fonts/SCDreamLight.woff') format('woff'),
+			url('../fonts/SCDreamLight.ttf') format('truetype'),
+			url('../fonts/SCDreamLight.otf') format('opentype'),
+			url('../fonts/SCDreamLight.eot') format('embedded-opentype');
 }
 
 @font-face {
@@ -16,11 +16,11 @@
 	font-style: normal;
 	font-weight: 400;
 	src: local('SCDream'),
-			url('/resources/homepage/fonts/SCDreamRegular.woff2') format('woff2'), 
-			url('/resources/homepage/fonts/SCDreamRegular.woff') format('woff'),
-			url('/resources/homepage/fonts/SCDreamRegular.ttf') format('truetype'),
-			url('/resources/homepage/fonts/SCDreamRegular.otf') format('opentype'),
-			url('/resources/homepage/fonts/SCDreamRegular.eot') format('embedded-opentype');
+			url('../fonts/SCDreamRegular.woff2') format('woff2'), 
+			url('../fonts/SCDreamRegular.woff') format('woff'),
+			url('../fonts/SCDreamRegular.ttf') format('truetype'),
+			url('../fonts/SCDreamRegular.otf') format('opentype'),
+			url('../fonts/SCDreamRegular.eot') format('embedded-opentype');
 }
 
 @font-face {
@@ -28,11 +28,11 @@
 	font-style: normal;
 	font-weight: 600;
 	src: local('SCDream'),
-			url('/resources/homepage/fonts/SCDreamMedium.woff2') format('woff2'), 
-			url('/resources/homepage/fonts/SCDreamMedium.woff') format('woff'),
-			url('/resources/homepage/fonts/SCDreamMedium.ttf') format('truetype'),
-			url('/resources/homepage/fonts/SCDreamMedium.otf') format('opentype'),
-			url('/resources/homepage/fonts/SCDreamMedium.eot') format('embedded-opentype');
+			url('../fonts/SCDreamMedium.woff2') format('woff2'), 
+			url('../fonts/SCDreamMedium.woff') format('woff'),
+			url('../fonts/SCDreamMedium.ttf') format('truetype'),
+			url('../fonts/SCDreamMedium.otf') format('opentype'),
+			url('../fonts/SCDreamMedium.eot') format('embedded-opentype');
 }
 
 @font-face {
@@ -40,11 +40,11 @@
 	font-style: normal;
 	font-weight: 700;
 	src: local('SCDream'),
-			url('/resources/homepage/fonts/SCDreamBold.woff2') format('woff2'), 
-			url('/resources/homepage/fonts/SCDreamBold.woff') format('woff'),
-			url('/resources/homepage/fonts/SCDreamBold.ttf') format('truetype'),
-			url('/resources/homepage/fonts/SCDreamBold.otf') format('opentype'),
-			url('/resources/homepage/fonts/SCDreamBold.eot') format('embedded-opentype');
+			url('../fonts/SCDreamBold.woff2') format('woff2'), 
+			url('../fonts/SCDreamBold.woff') format('woff'),
+			url('../fonts/SCDreamBold.ttf') format('truetype'),
+			url('../fonts/SCDreamBold.otf') format('opentype'),
+			url('../fonts/SCDreamBold.eot') format('embedded-opentype');
 }
 
 @font-face {
@@ -52,11 +52,11 @@
 	font-style: normal;
 	font-weight: 900;
 	src: local('SCDream'),
-			url('/resources/homepage/fonts/SCDreamBlack.woff2') format('woff2'), 
-			url('/resources/homepage/fonts/SCDreamBlack.woff') format('woff'),
-			url('/resources/homepage/fonts/SCDreamBlack.ttf') format('truetype'),
-			url('/resources/homepage/fonts/SCDreamBlack.otf') format('opentype'),
-			url('/resources/homepage/fonts/SCDreamBlack.eot') format('embedded-opentype');
+			url('../fonts/SCDreamBlack.woff2') format('woff2'), 
+			url('../fonts/SCDreamBlack.woff') format('woff'),
+			url('../fonts/SCDreamBlack.ttf') format('truetype'),
+			url('../fonts/SCDreamBlack.otf') format('opentype'),
+			url('../fonts/SCDreamBlack.eot') format('embedded-opentype');
 }
 
 *:not(body) {
